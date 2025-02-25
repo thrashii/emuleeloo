@@ -1,10 +1,14 @@
 body {
-    background-color: #ffe6ea;
-    font-family: 'Arial', sans-serif;
-    color: #b33951;
-    text-align: center;
-    margin: 0;
-    padding: 0;
+  background-color: #ffe6ea;
+  font-family: 'Montserrat', sans-serif;
+  color: #b33951;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  font-family: 'Arial', sans-serif; /* Different font for the container */
 }
 
 .container {
